@@ -2,7 +2,7 @@
 
 Hyperphonic is a high-performance, minimalist media player designed for the modern desktop. Built with React, Vite, and Tailwind CSS, it offers a seamless experience for playing local audio and video files with a focus on immersive visuals and intuitive controls.
 
-![Hyperphonic Preview](./screenshots/preview.png)
+![Hyperphonic Preview](./screenshots/preview.PNG)
 
 ## Features
 
