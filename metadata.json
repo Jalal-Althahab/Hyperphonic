@@ -1,0 +1,5 @@
+{
+  "name": "Hyperphonic",
+  "description": "A high-performance, minimalist media player for the modern desktop. Supports local audio and video playback with real-time visualization and immersive cinema modes.",
+  "requestFramePermissions": []
+}
